@@ -1,6 +1,6 @@
 # C++ Lab
 
-just testing rust.
+just testing c++.
 
 ## todos
 
