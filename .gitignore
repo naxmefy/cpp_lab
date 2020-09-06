@@ -26,13 +26,14 @@
 *.a
 *.lib
 
+# Compiled miscs
+*.pdb
+*.ilk
+
 # Executables
 *.exe
 *.out
 *.app
-
-# pdb
-*.pdb
 
 # vscode
 .vscode
